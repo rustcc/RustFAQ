@@ -1,1 +1,1 @@
-FAQ for Rust begginners.
+FAQ for Rust beginners.
