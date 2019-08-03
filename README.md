@@ -14,11 +14,11 @@ Before asking, please check the [Google](https://www.google.com) and [StackOverf
 
 
 ### JS之父Brendan Eich发明了Rust吗？
-- [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)**不是**Rust的发明者 也**从没参与Rust的开发**，
+- [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)**不是**Rust的发明者，仅仅**极少量地参与了Rust的开发**，
   [Graydon Hoare](https://everipedia.org/wiki/lang_en/graydon-hoare/)才是, 后者最早将Rust作为个人项目进行开发
-- Brendan Eich对Rust的贡献，是担任Mozilla CTO期间决定资助Rust项目(fund Rust)
+- Brendan Eich对Rust的最大贡献，是担任Mozilla CTO期间决定资助Rust项目(fund Rust)；[代码方面贡献了6个提交](https://github.com/graydon/rust-prehistory/commits?author=BrendanEich)，共计108+11=119行；Rust语法中for..in循环的in关键字是他引入的。
 
 ### Did Brendan Eich create the Rust programming language？
 - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)**is not**the creator of the Rust programming 
-  language **nor developing it**, but [Graydon Hoare](https://everipedia.org/wiki/lang_en/graydon-hoare/), Who started Rust as personal project.
-- Brendan Eich's contribution to Rust is deciding to fund rust when he worked as Mozilla's CTO.
+  language, but [Graydon Hoare](https://everipedia.org/wiki/lang_en/graydon-hoare/), Who started Rust as personal project.
+- Brendan Eich's contribution to Rust is deciding to fund rust when he worked as Mozilla's CTO, he has also commited [6 commits](https://github.com/graydon/rust-prehistory/commits?author=BrendanEich) to the Rust code base, the most significant change is that the `in` keyword in for..in loops is introduced by him.
