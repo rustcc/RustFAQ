@@ -10,7 +10,7 @@ Before asking, please check the [Google](https://www.google.com) and [StackOverf
   - [JS之父Brendan Eich发明了Rust吗？](#js之父brendan-eich发明了rust吗)
   - [Did Brendan Eich create the Rust programming language？](#did-brendan-eich-create-the-rust-programming-language)
   - [在中国大陆`cargo`命令速度很慢，怎么办？](#在中国大陆`cargo`命令速度很慢，怎么办)
-  - [Why cargo is so slow in China Mainland, and how to improve it?](#Why-cargo-is-so-slow-in-China-Mainland%27-and how-to-improve-it)
+  - [Why cargo is so slow in China Mainland, and how to improve it?](#why-cargo-is-so-slow-in-china-mainland-and-how-to-improve-it)
 - 配置类 How to Config
 - 工程类
 
